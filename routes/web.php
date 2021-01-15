@@ -21,6 +21,11 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
 
+// login
+Route::get('/guest/login',function(){
+    return view('general.login');
+});
+
 
 //guest
 Route::get('/guest/home',function(){

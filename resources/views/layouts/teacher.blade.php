@@ -30,12 +30,12 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right mainNav">
-					<li class="c1 active"><a href="index.html">Home</a></li>
-					<li class="c2"><a href="about.html">About Us</a></li>
-          <li class="c5"><a href="videos.html">Videos</a></li>
-          <li class="c3"><a href="">Teacher View</a></li>
-          <li class="c7"><a href="contact.html">Contact Us</a></li>
-          <li class="c6"><a href="login.html">Log Out</a></li>
+					<li class="c1 "><a href="home">Home</a></li>
+					<li class="c2"><a href="aboutus">About Us</a></li>
+          <li class="c5"><a href="video">Videos</a></li>
+          <li class="c3"><a href="comment">Teacher View</a></li>
+          <li class="c7"><a href="contactus">Contact Us</a></li>
+          <li class="c6"><a href="">Log Out</a></li>
 
 				</ul>
 			</div>
@@ -141,11 +141,11 @@
 					<div class="col-md-6 panel">
 						<div class="panel-body">
 							<p class="simplenav">
-								<a href="index.html">Home</a> | 
-								<a href="about.html">About</a> |
-								<a href="courses.html">Courses</a> |
-								<a href="videos.html">Videos</a> |
-								<a href="contact.html">Contact</a>
+								<a href="home">Home</a> | 
+								<a href="aboutus">About</a> |
+								<a href="comment">Teacher View</a> |
+								<a href="video">Videos</a> |
+								<a href="contactus">Contact</a>
 							</p>
 						</div>
 					</div>
