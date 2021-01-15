@@ -7,6 +7,7 @@
 	<meta name="description" content="free-educational-responsive-web-template-webEdu">
 	<meta name="author" content="webThemez.com">
 	<title>On School</title>
+    <!-- <link rel="icon" href="..\assets\images\title.PNG" style="width:50px"> -->
 	<link rel="favicon" href="../assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
@@ -26,7 +27,7 @@
 			<div class="navbar-header">
 				<!-- Button for smallest screens -->
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-				<a class="navbar-brand" href="index.html"> <span style="color:#04d2c8"> My</span> Online School </a>
+				<a class="navbar-brand" href="home"><img src="..\assets\images\logo3.PNG" style="margin:-40%; top:0"></a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right mainNav">
